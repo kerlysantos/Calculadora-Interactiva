@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kerlysantos/calculadora-interativa-giffy.git/static/css/main.c89f1c28.css",
+    "main.js": "/kerlysantos/calculadora-interativa-giffy.git/static/js/main.7b6f39fb.js",
+    "index.html": "/kerlysantos/calculadora-interativa-giffy.git/index.html",
+    "main.c89f1c28.css.map": "/kerlysantos/calculadora-interativa-giffy.git/static/css/main.c89f1c28.css.map",
+    "main.7b6f39fb.js.map": "/kerlysantos/calculadora-interativa-giffy.git/static/js/main.7b6f39fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89f1c28.css",
+    "static/js/main.7b6f39fb.js"
+  ]
+}
