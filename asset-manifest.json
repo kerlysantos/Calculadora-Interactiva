@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kerlysantos/giffy-react.git/static/css/main.c89f1c28.css",
-    "main.js": "/kerlysantos/giffy-react.git/static/js/main.7b6f39fb.js",
-    "index.html": "/kerlysantos/giffy-react.git/index.html",
-    "main.c89f1c28.css.map": "/kerlysantos/giffy-react.git/static/css/main.c89f1c28.css.map",
-    "main.7b6f39fb.js.map": "/kerlysantos/giffy-react.git/static/js/main.7b6f39fb.js.map"
+    "main.css": "/kerlysantos/Calculadora-Interactiva.git/static/css/main.c89f1c28.css",
+    "main.js": "/kerlysantos/Calculadora-Interactiva.git/static/js/main.7b6f39fb.js",
+    "index.html": "/kerlysantos/Calculadora-Interactiva.git/index.html",
+    "main.c89f1c28.css.map": "/kerlysantos/Calculadora-Interactiva.git/static/css/main.c89f1c28.css.map",
+    "main.7b6f39fb.js.map": "/kerlysantos/Calculadora-Interactiva.git/static/js/main.7b6f39fb.js.map"
   },
   "entrypoints": [
     "static/css/main.c89f1c28.css",
