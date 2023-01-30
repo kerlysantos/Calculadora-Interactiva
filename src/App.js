@@ -31,7 +31,7 @@ function App() {
       <img 
         src={images}
         className = 'logo-contededorr'
-        alt='logo de la calculadora' />
+        alt='logo de calculadora' />
         <div className='nombres'> 
   <h1>Calculadora Kerly-App </h1> 
   </div>
